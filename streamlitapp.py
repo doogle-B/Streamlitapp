@@ -14,7 +14,7 @@ with col1:
     st.title("I am Murtaza Hassan")
  
 with col2:
-    st.image("images/murtaza.png")
+    st.image("Images/murtaza.png")
  
 # st.title(" ")
  
@@ -69,7 +69,7 @@ with col2:
 st.title(" ")
  
 st.title("My Setup")
-st.image("images/setup.jpg")
+st.image("Images/setup.jpg")
  
  
 st.write(" ")
@@ -84,19 +84,19 @@ st.title("Gallery")
 col1, col2, col3 = st.columns(3)
  
 with col1:
-    st.image("images/g1.jpg")
-    st.image("images/g2.jpg")
-    st.image("images/g3.jpg")
+    st.image("Images/g1.jpg")
+    st.image("Images/g2.jpg")
+    st.image("Images/g3.jpg")
  
 with col2:
-    st.image("images/g4.jpg")
-    st.image("images/g5.jpg")
-    st.image("images/g6.jpg")
+    st.image("Images/g4.jpg")
+    st.image("Images/g5.jpg")
+    st.image("Images/g6.jpg")
  
 with col3:
-    st.image("images/g7.jpg")
-    st.image("images/g8.jpg")
-    st.image("images/g9.jpg")
+    st.image("Images/g7.jpg")
+    st.image("Images/g8.jpg")
+    st.image("Images/g9.jpg")
  
 st.subheader(" ")
 st.write("CONTACT")
